@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-k81NasbqkKA5HSyJxN" width="400" alt="Coding gif"/>
 </div>
 
 ---
