@@ -1,11 +1,13 @@
 <div align="center">
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Firdaus;Junior+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/80s-synthwave-aesthetic-k81NasbqkKA5HSyJxN" width="400" alt="Coding gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wzZ2d6a2pxNm0yZmpiZm52b2Vmbm52amU0OTN0Z2kzb3ViNHRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" width="700" alt="Coding gif"/>
 </div>
 
 ---
