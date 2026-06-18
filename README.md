@@ -125,14 +125,10 @@ const ahmad = {
 <div align="center">
 
 ### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src ="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadFirdaus/AhmadFirdaus/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadFirdaus/AhmadFirdaus/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmadFirdaus/AhmadFirdaus/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ### 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=AhmadFirdaus&color=36BCF7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
